@@ -1,0 +1,17 @@
+*{
+    font-family: "Poppins", sans-serif;
+  }
+  
+
+.banner{
+    background-image: url(images/logo2.jpg);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-fluid{
+  max-width: 100%;
+  height: auto;  
+}
